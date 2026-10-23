@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "gaia-dr3-lc2img-cnn"
+type: software
+authors:
+  - family-names: "González-Morales"
+    given-names: "P. A."
+    orcid: "https://orcid.org/0000-0003-0600-2210"
+    affiliation: "Universidad Internacional de La Rioja (UNIR)"
+  - family-names: "Cervantes"
+    given-names: "Alejandro"
+    orcid: "https://orcid.org/0000-0001-5442-953X"
+    affiliation: "Universidad Internacional de La Rioja (UNIR)"
+  - family-names: "Carnerero"
+    given-names: "M. I."
+    orcid: "https://orcid.org/0000-0001-5843-5515"
+    affiliation: "INAF - Osservatorio Astrofisico di Torino"
+  - family-names: "Raiteri"
+    given-names: "C. M."
+    orcid: "https://orcid.org/0000-0003-1784-2784"
+    affiliation: "INAF - Osservatorio Astrofisico di Torino"
+  - family-names: "Baena-Gallé"
+    given-names: "R."
+    orcid: "https://orcid.org/0000-0001-5214-7408"
+    affiliation: "Universidad Internacional de La Rioja (UNIR)"
+license: MIT
+repository-code: "https://github.com/deproks/gaia-dr3-lc2img-cnn"
